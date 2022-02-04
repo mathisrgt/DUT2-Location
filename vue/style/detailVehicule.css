@@ -1,0 +1,12 @@
+.InfoVehicule{
+    width: 200px;
+    height: 120px;
+}
+.InfoVehicule img{
+    width: 300px;  
+    height: auto;  
+    text-align: center;  
+}
+.reservation{
+    margin-top: 10%;
+}

@@ -1,0 +1,12 @@
+.voitureStock{
+    height: 50%;
+    width: 30%;
+    background-color: gray;
+    border-color: blue;
+    border-radius: 10px;
+}
+
+.voitureStock img{
+    height: 100px;
+    width: auto;
+}

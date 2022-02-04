@@ -1,0 +1,12 @@
+.flotevehicule{
+    height: 50%;
+    width: 30%;
+    background-color: gray;
+    border-color: blue;
+    border-radius: 10px;
+}
+
+.flotevehicule img{
+    height: 100px;
+    width: auto;
+}
